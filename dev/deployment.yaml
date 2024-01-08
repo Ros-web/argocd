@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ibgxevyvovfe/cicd-e2e:buildtag
+        image: ibgxevyvovfe/cicd-e3e:buildtag
         ports:
         - containerPort: 80
 ---
