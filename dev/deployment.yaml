@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image:  nginx:1.14.3
+        image: ibgxevyvovfe/buildtag
         ports:
         - containerPort: 80
 ---
